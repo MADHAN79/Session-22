@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+}
+
+@media (max-width: 450px) {
+  .container {
+    flex-direction: row;
+    margin-top: 260%;
+    margin-bottom: 10%;
+  }
+}
