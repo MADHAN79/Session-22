@@ -4,5 +4,5 @@
 
 Hosted in Netlify : https://madhan-fsd61wdt-react-price-cards.netlify.app/
 
-```diff - text in red Once you get inside the website click the refresh button to see the fun :) ```
+#f03c15 Once you get inside the website click the refresh button to see the fun :) 
 
